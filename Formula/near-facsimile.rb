@@ -1,8 +1,8 @@
 class NearFacsimile < Formula
   desc "Find similar or identical text files in a directory"
   homepage "https://github.com/msuchane/near-facsimile"
-  url "https://github.com/msuchane/near-facsimile/archive/refs/tags/0.8.0.tar.gz"
-  sha256 "6e170e24dc1332813607503965f763bc4dca3b0148aa57cfb05e0e40af4fb680"
+  url "https://github.com/msuchane/near-facsimile/archive/refs/tags/0.8.2.tar.gz"
+  sha256 "d3af6d803130f9f3a875163630dc126ec8a8f89cc7b55d54978135de2f9e9a42"
   license "Apache-2.0"
   head "https://github.com/msuchane/near-facsimile.git", branch: "main"
 
