@@ -4,6 +4,7 @@ This repository provides several of my tools for the [Homebrew](https://brew.sh/
 
 The following tools are currently packaged here:
 
+* [acorns](https://github.com/msuchane/acorns)
 * [newdoc](https://github.com/redhat-documentation/newdoc)
 * [near-facsimile](https://github.com/msuchane/near-facsimile)
 
@@ -18,3 +19,4 @@ In general:
     ```
     $ brew install msuchane/repo/tool-name
     ```
+
