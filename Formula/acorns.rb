@@ -1,8 +1,8 @@
 class Acorns < Formula
   desc "Generate an AsciiDoc release notes document from tracking tickets. "
   homepage "https://github.com/msuchane/acorns"
-  url "https://github.com/msuchane/acorns/archive/refs/tags/v0.31.0.tar.gz"
-  sha256 "bef7bfe5331c6c263f15821cdcc484d6f5fe2adcc76ed744a5a6a8c3c6fd5f6d"
+  url "https://github.com/msuchane/acorns/archive/refs/tags/v0.31.1.tar.gz"
+  sha256 "63dfa331dce78f8c99fb769666a5fe2ccaaba1962da5a022a856789dfee74931"
   license "GPL-3.0-or-later"
   head "https://github.com/msuchane/acorns.git", branch: "main"
 
