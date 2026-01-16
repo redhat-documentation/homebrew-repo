@@ -1,8 +1,8 @@
 class Acorns < Formula
   desc "Generate an AsciiDoc release notes document from tracking tickets. "
   homepage "https://github.com/redhat-documentation/homebrew-repo"
-  url "https://github.com/redhat-documentation/acorns/archive/refs/tags/v1.1.0.tar.gz"
-  sha256 "dc57fc694f7318cfe8977e40223e911b8c9206fe0f7a0725126307991851f88b"
+  url "https://github.com/redhat-documentation/acorns/archive/refs/tags/v1.1.2.tar.gz"
+  sha256 "f415ad98afca6be90a175b494fde792acec2418fd584d3d69b760e1e8fc37565"
   license "GPL-3.0-or-later"
   head "https://github.com/redhat-documentation/acorns.git", branch: "main"
 
