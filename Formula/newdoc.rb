@@ -1,8 +1,8 @@
 class Newdoc < Formula
   desc "The newdoc tool generates files formatted with AsciiDoc, which are used in Red Hat documentation."
   homepage "https://github.com/redhat-documentation/newdoc"
-  url "https://github.com/redhat-documentation/newdoc/archive/refs/tags/v2.18.5.tar.gz"
-  sha256 "7a5a0944c83d4c7d589ce001fe6f18eaee8ed38b79ade9b9b66b5a97b28e09de"
+  url "https://github.com/redhat-documentation/newdoc/archive/refs/tags/v2.18.6.tar.gz"
+  sha256 "980faa22318f14e29cc44b5ccca03f1f706d3596ae88a36b4a727bc6871998f1"
   license "GPL-3.0-or-later"
   head "https://github.com/redhat-documentation/newdoc.git", branch: "main"
 
